@@ -12,7 +12,7 @@ npm install
 
 ## Run Cypress
 
-Ejecutar cypress run de cualquiera de las 2 formas
+Ejecutar cypress run chrome
 
 
 ```bash
