@@ -1,0 +1,12 @@
+{
+  "nonGlobalStepDefinitions": false,
+  "stepDefinitions": [
+    "cypress/e2e/stepDefinitions/**/*.{js,ts}"
+  ],
+  "html": {
+    "enabled": true
+  },
+  "json": {
+    "enabled": true
+  }
+}

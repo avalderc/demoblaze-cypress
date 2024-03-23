@@ -1,0 +1,13 @@
+{
+	"scripts": {
+		"cypress:open": "cypress open",
+		"cypress:chrome": "cypress run --browser chrome"
+	},
+	"devDependencies": {
+		"@badeball/cypress-cucumber-preprocessor": "^20.0.2",
+		"@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+		"@cucumber/cucumber": "^10.3.1",
+		"@cucumber/html-formatter": "^21.3.0",
+		"cypress": "^13.7.1"
+	}
+}
